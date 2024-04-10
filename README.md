@@ -4,9 +4,11 @@
   Hi there 👋
 </h1>
 
-<div align="center" style="margin:15px 0px">
-Here are some ideas to get you started:</div>
-<div style="margin: 0px 10px; background-color: #00000080;">
+<div style="margin:15px 0px"></div>
+
+<div style="margin: 0px 10px;">
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>Legalbot</b>
 - 🌱 I’m currently learning <strong>Next & Vercel</strong>
