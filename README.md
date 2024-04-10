@@ -1,15 +1,16 @@
-### Hi there 👋
+<div style="margin-top:50px"></div>
 
+<h1 align="center">
+  Hi there 👋
+</h1>
 
-**RenanSluder/RenanSluder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="margin:15px 0px">
+Here are some ideas to get you started:</div>
+<div style="margin: 0px 10px; background-color: #00000080;">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on <b>Legalbot</b>
+- 🌱 I’m currently learning <strong>Next & Vercel</strong>
+- 💬 Ask me about <b>qualquer coisa</b>
+- 📫 How to reach me: <b>renan_ramos@hotmail.com.br</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
